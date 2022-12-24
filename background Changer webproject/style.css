@@ -1,0 +1,47 @@
+body{
+    margin: opx;
+    padding: 20px 100px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(117, 13, 13);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 60px;
+}
+img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+p{
+    font-size: 18px;
+    font-style: italic;
+    color: rgb(65, 5, 5);
+}
+.btn{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border:solid maroon 2px;
+    border-radius: 50%;
+    cursor: pointer;
+    
+
+}
+#white{
+   background-color: #ffffff;
+}
+#aqua{
+  background-color: #00ffff;
+}
+#yellow{
+background-color: #ffff00;
+}
+#orange{
+background-color:#ec9f82;
+}
+#color-switcher{
+    text-align: right;
+}
